@@ -1,0 +1,66 @@
+.template-customizer-misc
+{
+    display:none
+}
+#toast-container * {
+
+    color: #12da79 !important;
+}
+.display_email{
+  display: none;
+}
+/* map */
+
+#map {
+    height: 100%;
+  }
+  #description {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+  }
+
+  #infowindow-content .title {
+    font-weight: bold;
+  }
+
+  #infowindow-content {
+    display: none;
+  }
+
+  #map #infowindow-content {
+    display: inline;
+  }
+
+  #pac-input {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 12px;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    width: 400px;
+  }
+
+  #pac-input:focus {
+    border-color: #4d90fe;
+  }
+
+  #title {
+    color: #fff;
+    background-color: #4d90fe;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 6px 12px;
+  }
+
+  #target {
+    width: 345px;
+  }
+.maps{
+    height: 300px;
+}
+.mypackage_table .dt-buttons{
+  display: none;
+}
